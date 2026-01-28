@@ -37,11 +37,7 @@ My background blends **UX/UI design, visual systems, and technical problem-solvi
 - AI-assisted ideation & prototyping  
 - AI-native UX patterns  
 - Human-centered AI design  
-
-### Vibe Coding (in progress)
-- HTML, CSS, JavaScript fundamentals  
-- Rapid prototyping with AI + code  
-- Git & GitHub for experimentation  
+- Rapid prototyping with AI + code
 
 ---
 
@@ -55,8 +51,7 @@ My background blends **UX/UI design, visual systems, and technical problem-solvi
 ### Experimental Projects
 - Prompt engineering experiments  
 - Design-to-code explorations  
-- Systemic design and product frameworks  
-*(More repositories coming as projects mature)*
+- Systemic design and product frameworks
 
 ---
 
@@ -71,5 +66,5 @@ My background blends **UX/UI design, visual systems, and technical problem-solvi
 
 ## 📫 Let’s connect
 
-- LinkedIn: https://www.linkedin.com/in/your-profile  
+- [LinkedIn](https://www.linkedin.com/in/victorcostaprofile/) 
 - Open to collaboration on **AI, design systems, and early-stage products**
